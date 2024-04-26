@@ -1,0 +1,3 @@
+Education: BE.civil
+college: AISSMS
+passing year: 2020
